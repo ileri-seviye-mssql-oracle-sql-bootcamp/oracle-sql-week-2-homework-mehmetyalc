@@ -1,0 +1,1 @@
+select SUBSCRIPTION_CODE from subscrýptýon where ACTIVATION_DATE < '2005-01-01' and status='ACTIVE' 

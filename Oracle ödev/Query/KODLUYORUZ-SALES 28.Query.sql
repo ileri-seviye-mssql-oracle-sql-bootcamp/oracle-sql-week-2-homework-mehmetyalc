@@ -1,0 +1,1 @@
+select FIRST_NAME,LAST_NAME from contacts where fýrst_name like 'C%' order by last_name asc

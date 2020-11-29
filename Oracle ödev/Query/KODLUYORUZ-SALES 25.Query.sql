@@ -1,0 +1,1 @@
+select first_name,last_name,JOB_TITLE from employees where JOB_TITLE not like 'S%'

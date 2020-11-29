@@ -1,0 +1,1 @@
+Select first, Count(first) From clients where age between 51 and 52 and sex='Female' Group By first Having Count (first) >1

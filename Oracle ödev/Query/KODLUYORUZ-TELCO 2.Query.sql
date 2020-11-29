@@ -1,0 +1,1 @@
+SELECT full_address FROM ADDRESS WHERE CITY='Istanbul'

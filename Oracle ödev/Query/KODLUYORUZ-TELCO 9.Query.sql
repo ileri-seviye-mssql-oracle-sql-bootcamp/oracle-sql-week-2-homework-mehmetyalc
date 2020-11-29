@@ -1,0 +1,1 @@
+SELECT cnt_value FROM contact WHERE ýs_prýmary NOT IN 1

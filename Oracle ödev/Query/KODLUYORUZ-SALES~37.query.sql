@@ -1,0 +1,1 @@
+select count(*) WAREHOUSE_ID FROM inventories WHERE WAREHOUSE_ID=8

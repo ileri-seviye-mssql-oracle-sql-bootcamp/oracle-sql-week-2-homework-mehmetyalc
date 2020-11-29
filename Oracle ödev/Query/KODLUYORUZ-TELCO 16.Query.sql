@@ -1,0 +1,1 @@
+select ACCOUNT_NAME from account where ACCOUNT_CLOSING_DATE is not  null

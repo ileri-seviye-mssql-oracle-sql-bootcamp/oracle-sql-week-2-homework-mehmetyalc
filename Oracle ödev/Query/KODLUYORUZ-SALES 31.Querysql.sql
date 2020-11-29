@@ -1,0 +1,1 @@
+select CATEGORY_NAME from product_categorýes where CATEGORY_ID not like 3

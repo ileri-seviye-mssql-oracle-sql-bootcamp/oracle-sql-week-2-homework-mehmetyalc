@@ -1,0 +1,1 @@
+select FULL_ADDRESS,COUNTRY_NAME from address where COUNTRY_CD='UK' or COUNTRY_CD='AU'

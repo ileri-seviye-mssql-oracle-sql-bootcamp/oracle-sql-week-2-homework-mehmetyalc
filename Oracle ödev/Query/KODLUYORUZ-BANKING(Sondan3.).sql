@@ -1,0 +1,1 @@
+select count(account_ýd),year from accounts group by year order by year desc

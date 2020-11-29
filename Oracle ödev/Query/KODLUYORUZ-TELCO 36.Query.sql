@@ -1,0 +1,1 @@
+select count(*) deactive FROM customer

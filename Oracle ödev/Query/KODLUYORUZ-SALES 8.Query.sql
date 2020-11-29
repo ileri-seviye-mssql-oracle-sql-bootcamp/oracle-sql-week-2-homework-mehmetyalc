@@ -1,0 +1,1 @@
+SELECT * FROM ýnventorýes WHERE quantýty BETWEEN 11 AND 49 ORDER BY quantýty DESC

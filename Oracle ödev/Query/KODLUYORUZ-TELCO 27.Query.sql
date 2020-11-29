@@ -1,0 +1,1 @@
+select name,surname from customer where name='%ü%' or surname='%ü%'

@@ -1,0 +1,1 @@
+select address from locations where state is null

@@ -1,0 +1,1 @@
+select name,surname from customer where name like 'E%'

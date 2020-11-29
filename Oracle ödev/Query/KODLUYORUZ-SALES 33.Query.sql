@@ -1,0 +1,1 @@
+select * from orders where status not in ('Shipped') 

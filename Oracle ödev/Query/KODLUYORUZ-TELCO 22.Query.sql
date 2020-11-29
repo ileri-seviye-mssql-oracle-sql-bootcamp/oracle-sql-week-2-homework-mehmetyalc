@@ -1,0 +1,1 @@
+select * from agreement where COMMITMENT_START_DATE > '2010-01-01'

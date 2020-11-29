@@ -1,0 +1,1 @@
+select ACCOUNT_NAME,E_BILL_EMAIL from account where E_BILL_EMAIL is not  null

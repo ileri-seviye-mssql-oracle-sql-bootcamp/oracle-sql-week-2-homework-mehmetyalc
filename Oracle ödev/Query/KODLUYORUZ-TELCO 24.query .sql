@@ -1,0 +1,1 @@
+select PRODUCT_NAME from product where PRODUCT_TYPE like '%DSL%'

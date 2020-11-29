@@ -1,0 +1,1 @@
+select * from orders where status='Canceled' and salesman_ýd is null

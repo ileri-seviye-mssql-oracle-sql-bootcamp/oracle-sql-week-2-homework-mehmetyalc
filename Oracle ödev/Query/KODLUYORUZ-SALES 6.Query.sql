@@ -1,0 +1,1 @@
+SELECT * FROM CONTACTS WHERE fýrst_name='Charlie' OR fýrst_name='Charlsie'
